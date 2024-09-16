@@ -1,0 +1,34 @@
+Programação orientada a objetos é um tipo de programação q gira em torno de criar objetos (baseado em classes) que utiliza sistema de encapsulamento e herança
+
+
+
+Programação procedural é uma forma de programação que é escrita em apenas 1 classe, dividida por métodos (além do método main)
+
+Passos que eu sigo após acordar:
+
+1- acordar
+
+2- levantar da cama 
+
+3- ir ao banheiro
+
+4- usar o banheiro (esta escuro?)
+	1- acender a luz
+
+5- lavar as mãos
+
+6- escovar os dentes
+
+7- ir a cozinha (esta escuro?)
+	1- acender a luz
+
+8- organizar o café
+
+9- tomar café
+
+10- lavar as mãos
+
+11- ir ao banheiro (esta escuro?)
+	1- acender a luz
+
+12- escovar os dentes
